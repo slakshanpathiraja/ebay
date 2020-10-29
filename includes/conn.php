@@ -1,8 +1,8 @@
 <?php
-$dbServerName = "b4jlpdkxyoebjyqarksd-mysql.services.clever-cloud.com";
-$dbUsername = "u06xpvi3r4katde0";
-$dbPassword = "RjXOh2jvNJxseVRuKl6L";
-$dbName = "b4jlpdkxyoebjyqarksd";
+$dbServerName = "freedb.tech";
+$dbUsername = "freedbtech_samitha";
+$dbPassword = "123@Samitha";
+$dbName = "freedbtech_samitha";
 
 // create connection
 $conn = mysqli_connect($dbServerName, $dbUsername, $dbPassword, $dbName);
