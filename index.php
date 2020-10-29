@@ -29,8 +29,8 @@ button {
 </style>
 <div class="background">
     <div class="login">
-    <h1> User Login Form </h1> 
-    <form action="dashboard.php" method="post">  
+    <h1> Ebay Order Manager</h1> 
+    <form action="dashboard/" method="post">  
         <div class="container">   
             <label>Username : </label>   
             <input type="text" placeholder="Enter Username" name="username" required> <br> 
